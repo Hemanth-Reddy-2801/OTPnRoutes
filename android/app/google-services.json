@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978083793727",
+    "project_id": "log-in-ff6cc-cohelp",
+    "storage_bucket": "log-in-ff6cc-cohelp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978083793727:android:081c43ee15fe774a77618a",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978083793727-ea8vd2qqam93jmdhslikkk94eke6ds1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRJqwdPIf27PYBNls6pQnrUN9Mk31_sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978083793727-ea8vd2qqam93jmdhslikkk94eke6ds1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
